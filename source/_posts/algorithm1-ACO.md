@@ -14,11 +14,10 @@ categories: 算法总结
 
 本节代码位置：<https://github.com/ModestBean/algorithm/tree/master/ACO_aunt_optimal_path> 代码中有非常详细的注释，建议下载代码看文章。
 
-个人博客：<https://modestbean.github.io/>
-
-CSDN：<https://blog.csdn.net/ModestBean>
-
-知乎：<https://www.zhihu.com/people/yin-dou-49/activities>
+- 个人博客：<https://modestbean.github.io/>
+- CSDN：<https://blog.csdn.net/ModestBean>
+- 知乎：<https://www.zhihu.com/people/yin-dou-49/activities>
+- QQ交流群：**740855975** 欢迎加入交流，其中包括3D图形学，three.js，OpenGL，Unity，UE4，图形图像处理，实时渲染等。
 
 
 ## 1 群蚁算法的基本原理
