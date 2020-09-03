@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 憨豆酒的博客
-subtitle: 怎么做其实更重要
-description: 怎么做其实更重要
+title: YinDou Blog
+subtitle: Computer Graphics
+description: Computer Graphics
 keywords: 
-author: 憨豆酒(Yin Dou)
+author: 尹豆(憨豆酒)
 language: zh-Hans
 timezone: 
 
@@ -73,7 +73,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia-plus
+# theme: yilia-plus
+
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
