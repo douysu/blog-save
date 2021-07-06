@@ -4,9 +4,9 @@ date: 2020-06-05 22:36:36
 tags:
 ---
 
-我是尹豆（憨豆酒），这里展示我的工作内容，我的简介请看<a href="/about/">个人简介</a>.
+我是尹豆（douysu），本人目前在做3D领域（图形学、引擎等）相关工作。此处展示我个人的工作。我的简介请看<a href="/about/">个人简介</a>.
 
-## 3D，OpenGL，图形学
+## 3D，OpenGL，实时渲染，图形学
 
 <style>
 table th:first-of-type {  
