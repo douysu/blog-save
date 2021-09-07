@@ -1,12 +1,14 @@
 ---
-title: 工作学习内容
-date: 2020-06-05 22:36:36
+title: 
+date: 2021-09-07
 tags:
 ---
 
 我是尹豆（douysu），本人目前在做3D领域（图形学、引擎等）相关工作。此处展示我个人的工作。我的简介请看<a href="/about/">个人简介</a>.
 
-## 3D，OpenGL，实时渲染，图形学
+# 项目
+
+### 图形
 
 <style>
 table th:first-of-type {  
@@ -15,7 +17,7 @@ table th:first-of-type {
 </style>
 
 内容 | 介绍 | 
-:-|:-|
+:-:|:-:|
 <img src="PBR-OpenGL.jpg" width=300> | Physically Based Rendering-IBL（PBR基于物理渲染）<br>[[Video](https://www.bilibili.com/video/BV1TV411z7qe)] [[WebPage](https://zhuanlan.zhihu.com/p/176474625)] [[Code](https://github.com/douysu/graphics-algorithm/tree/master/physically-rendering)]
 <img src="IISPH.jpg" width=300> | Fluid Simulation(物理动画流体模拟) <br> [[Video](https://www.bilibili.com/video/BV1454y127Vy?from=search&seid=5825690446384116530)] [[WebPage](https://zhuanlan.zhihu.com/p/161808444)] [[Code](https://github.com/douysu/graphics-algorithm/tree/master/melt-animation)]
 <img src="tinyraytracer.jpg" width=300> | Ray Tracing（光线追踪) <br> [[WebPage](https://zhuanlan.zhihu.com/p/144189898)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/tinyraytracerYD)]
@@ -30,7 +32,7 @@ table th:first-of-type {
 <img src="opengles-uniform-buffer.jfif" width=150> | OpenGL Uniform Buffer Object（Uniform缓冲对象） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79130517)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/opengles-uniform-buffer)]
 <img src="CameraRoam.jpg" width=300> | OpenGL Camera（OpenGL 摄像机漫游） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79130876)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/CameraRoam)]
 
-## Shader着色器
+### Shader
 
 内容 | 介绍 | 
 :-|:-|
@@ -44,13 +46,7 @@ table th:first-of-type {
 <img src="shu1.jpg" width=300> | 着色器滤镜、图像卷积与滤波、数字图像处理 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79192901)] [[Code](https://github.com/douysu/shader)]
 <img src="r10.jpg" width=300> | 体积雾特效的使用 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79251244)] [[Code](https://github.com/douysu/shader)]
 
-## 图像处理
-
-内容 | 介绍 | 
-:-|:-|
-<img src="radon.png" width=200> | radon直线检测及绘制直线 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/89632272)] [[Code](https://github.com/douysu/algorithm/tree/master/image-processing)]
-
-## C++
+### C++
 
 内容 | 源代码位置 |  
 :-:|:-:|
@@ -67,7 +63,13 @@ table th:first-of-type {
 [C++ 线程的基本使用方式](https://blog.csdn.net/ModestBean/article/details/90272892) | [源代码位置](https://github.com/douysu/c-code) 
 [C++ 拷贝函数C++标准库复数类string解析](https://blog.csdn.net/ModestBean/article/details/90273092) | [源代码位置](https://github.com/douysu/c-code) 
 
-## 算法
+### 图像
+
+内容 | 介绍 | 
+:-|:-|
+<img src="radon.png" width=200> | radon直线检测及绘制直线 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/89632272)] [[Code](https://github.com/douysu/algorithm/tree/master/image-processing)]
+
+### 算法
 
 内容 | 源代码位置 |  
 :-:|:-:|
