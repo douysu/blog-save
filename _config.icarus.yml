@@ -231,7 +231,7 @@ widgets:
         # Author's current location
         location: Beijing, China
         # URL or path to the avatar image
-        avatar: images/tou.jpg
+        avatar: images/toux.jpg
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
