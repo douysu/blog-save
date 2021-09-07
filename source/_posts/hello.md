@@ -17,7 +17,7 @@ table th:first-of-type {
 </style>
 
 内容 | 介绍 | 
-:-:|:-:|
+:-:|:-|
 <img src="PBR-OpenGL.jpg" width=300> | Physically Based Rendering-IBL（PBR基于物理渲染）<br>[[Video](https://www.bilibili.com/video/BV1TV411z7qe)] [[WebPage](https://zhuanlan.zhihu.com/p/176474625)] [[Code](https://github.com/douysu/graphics-algorithm/tree/master/physically-rendering)]
 <img src="IISPH.jpg" width=300> | Fluid Simulation(物理动画流体模拟) <br> [[Video](https://www.bilibili.com/video/BV1454y127Vy?from=search&seid=5825690446384116530)] [[WebPage](https://zhuanlan.zhihu.com/p/161808444)] [[Code](https://github.com/douysu/graphics-algorithm/tree/master/melt-animation)]
 <img src="tinyraytracer.jpg" width=300> | Ray Tracing（光线追踪) <br> [[WebPage](https://zhuanlan.zhihu.com/p/144189898)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/tinyraytracerYD)]
